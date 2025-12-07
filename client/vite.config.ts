@@ -13,7 +13,7 @@ export default defineConfig({
     },
   },
   // GitHub Pages - 레포지토리 이름 필수
-  base: '/GILabHomePage/',
+  base: '/GILabHomepage/',
   build: {
     // docs 폴더로 빌드 (루트에 생성)
     outDir: '../docs',
