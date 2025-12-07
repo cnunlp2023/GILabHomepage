@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8414b4a2-15f3-46df-9777-36915338c1ea",
+    "name": "LLM Red team",
+    "description": "Jailbreaking, Train data extraction, Fake image generation, etc",
+    "parentId": null,
+    "imageUrl": "",
+    "order": 0,
+    "isActive": true
+  },
+  {
+    "id": "8069085a-565a-48f9-8096-5575a68a4ced",
+    "name": "AI Security",
+    "description": "Watermarking, MBA deofuscation, Fake image detection, etc",
+    "parentId": null,
+    "imageUrl": "",
+    "order": 0,
+    "isActive": true
+  },
+  {
+    "id": "850cd185-99c8-46b0-bf23-329275bef50a",
+    "name": "Generation",
+    "description": "Summarization, RAG, Controllable LLMs, Image Generation, Multimodal Geneation, etc",
+    "parentId": null,
+    "imageUrl": "",
+    "order": 0,
+    "isActive": true
+  },
+  {
+    "id": "fba90d16-a601-4873-9369-6e4085714fb5",
+    "name": "Information Extraction",
+    "description": "NER, Neural ranking model, etc",
+    "parentId": null,
+    "imageUrl": "",
+    "order": 0,
+    "isActive": true
+  }
+]
